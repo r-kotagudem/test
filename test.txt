@@ -1,2 +1,2 @@
 from server initial
-from locals
+from localst
